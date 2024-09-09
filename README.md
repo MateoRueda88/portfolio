@@ -27,6 +27,8 @@ Monsteral
 
 -Desarrollé e-commerce de plantas implementando tecnologías como HTML, CSS 
 JavaScript, SpringBoot. 
+
+
 -Diseñé y desarrollé la interfaz del usuario utilizando Bootstrap y CSS personalizado con el 
 fin de mejorar la experiencia de usuario.
 
