@@ -1,5 +1,7 @@
-PORTAFOLIO MATEO RUEDA DESARROLLADOR WEB FRONTEND
+PORTAFOLIO MATEO RUEDA   ------------- // ------------------
+DESARROLLADOR WEB FRONTEND
 
+////////////////////////// ---------- ///////////////////////
 
 Soy desarrollador Full-Stack con enfasis en el diseño y experiencia de usuario, poseo bases solidas en el desarrollo de aplicativos y páginas web, tanto frontend como backend, cuento con conocimientos en HTML, CSS, JavaScript Y Java, con capacidad de crear contenido atractivo y dinámico. Con las habilidades para trabajar en equipo, orientación al detalle y experiencia en la construcción y elaboración de proyectos desafiantes.
 
